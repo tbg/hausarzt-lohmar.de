@@ -38,8 +38,8 @@ Sofern im Rahmen dieser Datenschutzerklärung Inhalte, Werkzeuge oder sonstige M
 
 Die personenbezogenen Daten werden, neben den ausdrücklich in dieser Datenschutzerklärung genannten Verwendung, für die folgenden Zwecke auf Grundlage gesetzlicher Erlaubnisse oder Einwilligungen der Nutzer verarbeitet:
 
-    Die Zurverfügungstellung, Ausführung, Pflege, Optimierung und Sicherung unserer Dienste-, Service- und Nutzerleistungen;
-    Die Gewährleistung eines effektiven Kundendienstes und technischen Supports.
+> Die Zurverfügungstellung, Ausführung, Pflege, Optimierung und Sicherung unserer Dienste-, Service- und Nutzerleistungen;
+> Die Gewährleistung eines effektiven Kundendienstes und technischen Supports.
 
 Wir übermitteln die Daten der Nutzer an Dritte nur, wenn dies für Abrechnungszwecke notwendig ist (z.B. an einen Zahlungsdienstleister) oder für andere Zwecke, wenn diese notwendig sind, um unsere vertraglichen Verpflichtungen gegenüber den Nutzern zu erfüllen (z.B. Adressmitteilung an Lieferanten).
 
@@ -66,11 +66,11 @@ Es kann vorkommen, dass innerhalb unseres Onlineangebotes Inhalte oder Dienste v
 
 Die nachfolgende Darstellung bietet eine Übersicht von Dritt-Anbietern sowie ihrer Inhalte, nebst Links zu deren Datenschutzerklärungen, welche weitere Hinweise zur Verarbeitung von Daten und, z.T. bereits hier genannt, Widerspruchsmöglichkeiten (sog. Opt-Out) enthalten:
 
-    Externe Schriftarten von Google, Inc., https://www.google.com/fonts („Google Fonts“). Die Einbindung der Google Fonts erfolgt durch einen Serveraufruf bei Google (in der Regel in den USA). Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
+> Externe Schriftarten von Google, Inc., https://www.google.com/fonts („Google Fonts“). Die Einbindung der Google Fonts erfolgt durch einen Serveraufruf bei Google (in der Regel in den USA). Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
 
-    Landkarten des Dienstes „Google Maps“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, gestellt. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
+ > Landkarten des Dienstes „Google Maps“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, gestellt. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
 
-    Videos der Plattform „YouTube“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
+> Videos der Plattform „YouTube“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
 
 ## 7. Rechte der Nutzer und Löschung von Daten
 
