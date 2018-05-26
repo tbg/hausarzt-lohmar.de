@@ -1,0 +1,6 @@
+baseURL = "http://www.hausarzt-lohmar.de/"
+languageCode = "de-DE"
+title = "Hausarztpraxis Dr. A. Schottdorf"
+theme = "ananke"
+
+DefaultContentLanguage = "de"
