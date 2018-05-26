@@ -1,4 +1,4 @@
-baseURL = "http://www.hausarzt-lohmar.de/"
+baseURL = "/"
 languageCode = "de-DE"
 title = "Hausarztpraxis Dr. A. Schottdorf"
 theme = "ananke"
