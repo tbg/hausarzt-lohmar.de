@@ -84,5 +84,5 @@ Die bei uns gespeicherten Daten werden gelöscht, sobald sie für ihre Zweckbest
 Wir behalten uns vor, die Datenschutzerklärung zu ändern, um sie an geänderte Rechtslagen, oder bei Änderungen des Dienstes sowie der Datenverarbeitung anzupassen. Dies gilt jedoch nur im Hinblick auf Erklärungen zur Datenverarbeitung. Sofern Einwilligungen der Nutzer erforderlich sind oder Bestandteile der Datenschutzerklärung Regelungen des Vertragsverhältnisses mit den Nutzern enthalten, erfolgen die Änderungen nur mit Zustimmung der Nutzer.
 Die Nutzer werden gebeten sich regelmäßig über den Inhalt der Datenschutzerklärung zu informieren.
 
-Stand: 23.05.2018
+Stand: 22.05.2018
 
