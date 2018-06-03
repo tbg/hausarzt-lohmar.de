@@ -22,7 +22,7 @@ In der Umgebung der Praxis sind zahlreiche Parkmöglichkeiten verfügbar (direkt
 ### Mobiltelefon für notfallähnliche Situatuationen: 0160 - 932 13 419
 - wenn Praxis und Notfallpraxis nicht besetzt sind und Notruf 112 nicht erforderlich ist
 
-### Ärztlicher Bereitschaftsdienst: Notfall-Hausbesuch nach Schließung der Praxis: 116 117 
+### Ärztlicher Bereitschaftsdienst: Notfall-Hausbesuch: 116 117 
 - 18:00-07:00 Uhr des Folgetages (Mi. ab 13:00, Fr. ab 14:00) 
 
 ### Sprechzeiten
