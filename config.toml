@@ -4,4 +4,6 @@ title = "Hausarztpraxis Dr. A. Schottdorf"
 theme = "ananke"
 
 DefaultContentLanguage = "de"
-background_color_class = "bg-green"
+
+[params]
+  background_color_class = "bg-green"
