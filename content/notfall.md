@@ -37,13 +37,13 @@ nur, wenn wegen der Schwere der Erkrankung die Notfallpraxis nicht aufgesucht we
 
 |||
 |---------------------------|-------------------:| 
-Montag:      | von 18 Uhr bis 7 Uhr des Folgetages
-Dienstag:    | von 18 Uhr bis 7 Uhr
-Mittwoch:    | von 12 Uhr bis 7 Uhr
-Donnerstag: | von 18 Uhr bis 8 Uhr
-Freitag:       | von 12 Uhr (bis Montag, 8 Uhr)
-Samstag:     | rund um die Uhr
-Sonntag:      | rund um die Uhr (bis Montag, 8 Uhr)
+Montag:           | von 18 Uhr bis 7 Uhr des Folgetages
+Dienstag:         | von 18 Uhr bis 7 Uhr
+Mittwoch:         | von 12 Uhr bis 7 Uhr
+Donnerstag:       | von 18 Uhr bis 8 Uhr
+Freitag:             | von 12 Uhr (bis Montag, 8 Uhr)
+Samstag:          | rund um die Uhr
+Sonntag:           | rund um die Uhr (bis Montag, 8 Uhr)
 
 Nachrangig kann im Notfall auch die Arztnotrufzentrale in Duisburg erreicht werden
           Tel.-Nr. 0180 / 50 44 100 
