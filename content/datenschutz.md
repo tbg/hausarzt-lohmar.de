@@ -22,13 +22,13 @@ menu:
 
 Diese Datenschutzerklärung klärt über die Art, den Umfang und Zweck der Verarbeitung (u.a. Erhebung, Verarbeitung und Nutzung sowie Einholung von Einwilligungen) von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte (nachfolgend gemeinsam bezeichnet als „Onlineangebot“ oder „Website“) auf. Die Datenschutzerklärung gilt unabhängig von den verwendeten Domains, Systemen, Plattformen und Geräten (z.B. Desktop oder Mobile) auf denen das Onlineangebot ausgeführt wird.
 
-Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist die Hausarztpraxis Dr. Schottdorf, Hauptstr. 55, Lohmar (nachfolgend bezeichnet als „AnbieterIn“, „wir“ , Hauptstr. 55, Lohmar oder „uns“). Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum
+Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist die Hausarztpraxis Dr. Schottdorf, Hauptstr. 55, Lohmar (nachfolgend bezeichnet als „AnbieterIn“, „wir“ , Hauptstr. 55, Lohmar oder „uns“). Für die Kontaktmöglichkeiten verweisen wir auf unser Impressum.
 
 Der Begriff „Nutzer“ umfasst alle Kunden und Besucher unseres Onlineangebotes. Die verwendeten Begrifflichkeiten, wie z.B. „Nutzer“ sind geschlechtsneutral zu verstehen.
 
 ## 2. Grundsätzliche Angaben zur Datenverarbeitung
 
-Wir verarbeiten personenbezogene Daten der Nutzer nur unter Einhaltung der einschlägigen Datenschutzbestimmungen entsprechend den Geboten der Datensparsamkeit- und Datenvermeidung. Das bedeutet die Daten der Nutzer werden nur beim Vorliegen einer gesetzlichen Erlaubnis, insbesondere wenn die Daten zur Erbringung unserer vertraglichen Leistungen sowie Online-Services erforderlich, bzw. gesetzlich vorgeschrieben sind oder beim Vorliegen einer Einwilligung verarbeitet.
+Wir verarbeiten personenbezogene Daten der Nutzer nur unter Einhaltung der einschlägigen Datenschutzbestimmungen entsprechend den Geboten der Datensparsamkeit- und Datenvermeidung. Das bedeutet, dass die Daten der Nutzer nur beim Vorliegen einer gesetzlichen Erlaubnis, insbesondere wenn die Daten zur Erbringung unserer vertraglichen Leistungen sowie Online-Services erforderlich, bzw. gesetzlich vorgeschrieben sind oder beim Vorliegen einer Einwilligung, verarbeitet werden.
 
 Wir treffen organisatorische, vertragliche und technische Sicherheitsmaßnahmen entsprechend dem Stand der Technik, um sicher zu stellen, dass die Vorschriften der Datenschutzgesetze eingehalten werden und um damit die durch uns verarbeiteten Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen.
 
@@ -56,13 +56,13 @@ Wir verwenden die Protokolldaten ohne Zuordnung zur Person des Nutzers oder sons
 
 Cookies sind Informationen, die von unserem Webserver oder Webservern Dritter an die Web-Browser der Nutzer übertragen und dort für einen späteren Abruf gespeichert werden. Über den Einsatz von Cookies im Rahmen pseudonymer Reichweitenmessung werden die Nutzer im Rahmen dieser Datenschutzerklärung informiert.
 
-Die Betrachtung dieses Onlineangebotes ist auch unter Ausschluss von Cookies möglich. Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
+Die Betrachtung dieses Onlineangebotes ist auch unter Ausschluss von Cookies möglich. Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten, die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
-Es besteht die Möglichkeit, viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikanische Seite www.aboutads.info/choices oder die EU-Seite www.youronlinechoices.com/uk/your-ad-choices/ zu verwalten.
+Es besteht die Möglichkeit, viele Online-Anzeigen-Cookies von Unternehmen über die EU-Seite www.youronlinechoices.com/uk/your-ad-choices/ zu verwalten.
 
 ## 6. Einbindung von Diensten und Inhalten Dritter
 
-Es kann vorkommen, dass innerhalb unseres Onlineangebotes Inhalte oder Dienste von Dritt-Anbietern, wie zum Beispiel Stadtpläne oder Schriftarten von anderen Webseiten eingebunden werden. Die Einbindung von Inhalten der Dritt-Anbieter setzt immer voraus, dass die Dritt-Anbieter die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an den Browser der Nutzer senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Des Weiteren können die Anbieter der Dritt-Inhalte eigene Cookies setzen und die Daten der Nutzer für eigene Zwecke verarbeiten. Dabei können aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden. Wir werden diese Inhalte möglichst datensparsam und datenvermeidend einsetzen sowie im Hinblick auf die Datensicherheit zuverlässige Dritt-Anbieter wählen.
+Es kann vorkommen, dass innerhalb unseres Onlineangebotes Inhalte oder Dienste von Dritt-Anbietern, wie zum Beispiel Stadtpläne oder Schriftarten von anderen Webseiten eingebunden werden. Die Einbindung von Inhalten der Dritt-Anbieter setzt immer voraus, dass die Dritt-Anbieter die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an den Browser der Nutzer senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Des Weiteren können die Anbieter der Dritt-Inhalte eigene Cookies setzen und die Daten der Nutzer für eigene Zwecke verarbeiten. Dabei können aus den verarbeiteten Daten Nutzungsprofile der Nutzer erstellt werden. Wir werden diese Inhalte möglichst datensparsam und datenvermeidend einsetzen sowie im Hinblick auf die Datensicherheit zuverlässige Dritt-Anbieter wählen. In den Systemeinstellungen des Browsers kann die Speicherung von Cookies deaktiviert werden. 
 
 Die nachfolgende Darstellung bietet eine Übersicht von Dritt-Anbietern sowie ihrer Inhalte, nebst Links zu deren Datenschutzerklärungen, welche weitere Hinweise zur Verarbeitung von Daten und, z.T. bereits hier genannt, Widerspruchsmöglichkeiten (sog. Opt-Out) enthalten:
 
@@ -70,19 +70,28 @@ Die nachfolgende Darstellung bietet eine Übersicht von Dritt-Anbietern sowie ih
 
  > Landkarten des Dienstes „Google Maps“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, gestellt. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
 
-> Videos der Plattform „YouTube“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
+> Videos der Plattform „YouTube“ des Dritt-Anbieters Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/ (derzeit nicht implementiert).
 
 ## 7. Rechte der Nutzer und Löschung von Daten
 
 Nutzer haben das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die von uns über sie gespeichert wurden.
 Zusätzlich haben die Nutzer das Recht auf Berichtigung unrichtiger Daten, Widerruf von Einwilligungen, Sperrung und Löschung ihrer personenbezogenen Daten sowie das Recht, im Fall der Annahme einer unrechtmäßigen Datenverarbeitung eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.
 
+Postanschrift der aufsichtsbehörde: 
+        Landesbeauftragte für Datenschutz und Informationsfreiheit
+        Nordrhein-Westfalen
+        Postfach 20 04 44
+        40102 Düsseldorf
+        Tel.: 0211/38424-0
+        Fax: 0211/38424-10
+        E-Mail: poststelle@ldi.nrw.de
+
 Die bei uns gespeicherten Daten werden gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ## 8. Änderungen der Datenschutzerklärung
 
 Wir behalten uns vor, die Datenschutzerklärung zu ändern, um sie an geänderte Rechtslagen, oder bei Änderungen des Dienstes sowie der Datenverarbeitung anzupassen. Dies gilt jedoch nur im Hinblick auf Erklärungen zur Datenverarbeitung. Sofern Einwilligungen der Nutzer erforderlich sind oder Bestandteile der Datenschutzerklärung Regelungen des Vertragsverhältnisses mit den Nutzern enthalten, erfolgen die Änderungen nur mit Zustimmung der Nutzer.
-Die Nutzer werden gebeten sich regelmäßig über den Inhalt der Datenschutzerklärung zu informieren.
+Die Nutzer werden gebeten, sich regelmäßig über den Inhalt der Datenschutzerklärung zu informieren.
 
-Stand: 22.05.2018
+Stand: 04.06.2018
 
