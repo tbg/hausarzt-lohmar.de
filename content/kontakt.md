@@ -19,7 +19,8 @@ In der Umgebung der Praxis sind zahlreiche Parkmöglichkeiten verfügbar (direkt
 
 ### Wiederholungsrezepte, Überweisungen: 02246 - 911 603 (Anrufbeantworter) 
 
-### Mobiltelefon für notfallähnliche Situatuationen: 0160 - 932 13 419
+### Mobiltelefon für notfallähnliche Situatuationen: 
+### 0160 - 932 13 419
 - wenn Praxis und Notfallpraxis nicht besetzt sind und Notruf 112 nicht erforderlich ist
 
 ### Ärztlicher Bereitschaftsdienst: Notfall-Hausbesuch: 116 117 
