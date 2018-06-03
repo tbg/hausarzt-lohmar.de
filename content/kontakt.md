@@ -15,32 +15,30 @@ In der Umgebung der Praxis sind zahlreiche Parkmöglichkeiten verfügbar (direkt
 
 [zum Routenplaner](https://maps.google.de/?daddr=Hauptstr.+55,+59747+Lohmar&t=h&z=16)
 
-### Sprechzeiten, Telefonzeiten
-- täglich 08:00 – 12:00,  Mo., Di., Do 14:30– 17:00 Uhr
-- 02246 - 7100
+### Telefon: 02246 - 7100
+
+### Wiederholungsrezepte, Überweisungen: 02246 - 911 603 (Anrufbeantworter) 
+
+### Mobiltelefon für notfallähnliche Situatuationen: 0160 - 932 13 419
+- wenn Praxis und Notfallpraxis nicht besetzt sind und Notruf 112 nicht erforderlich ist
+
+### Ärztlicher Bereitschaftsdienst: Notfall-Hausbesuch nach Schließung der Praxis: 116 117 
+- 18:00-07:00 Uhr des Folgetages (Mi. ab 13:00, Fr. ab 14:00) 
+
+### Sprechzeiten
+- täglich 08:00 – 12:00  
+- Mo., Di., Do. zusätzlich 14:30– 17:00 Uhr
 
 ### Akutsprechstunde 
 - Mo. 08:00 – 09:00 Uhr
 
 ### Sprechzeiten für Berufstätige
 - Di. 17:00 – 18:30, Do. 07:30 – 08:00 Uhr
-- 02246 - 7100
-
-### Wiederholungsrezepte Überweisungen 
-- Anrufbeantworter 
-- 02246 - 911 603
-
-### Mobiltelefon für notfallähnliche Situatuationen 
-- wenn Praxis und Notfallpraxis nicht besetzt sind und Notruf 112 nicht erforderlich ist 
-- 0160 / 932 13 419
 
 ### Dringliche Hausbesuche 
 - möglichst bis 12:00 Uhr anmelden 
 - 02246 - 7100
 
-### Vertragsärztlicher Notfall-Hausbesuch 
-- 19:00-07:00 (Mi. ab 13:00, Fr. ab 14:00) 
-- 116 117 (ohne Vorwahl)
 
 ### Sonstige
 - Fax-Nr. der Praxis: 02246 - 911578
