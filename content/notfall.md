@@ -19,7 +19,7 @@ Tel.-Nr. 0160 / 932 13 419 in dringenden Fällen außerhalb der Sprechzeiten**
 gegenüber dem Krankenhaus in der Ringstraße 
 **besetzt zu folgenden Zeiten:**
 
-||| 
+|||
 |---------------------------|-------------------:|
 Montag                    | 19:00 - 23:00 Uhr
 Dienstag                  | 19:00 - 23:00 Uhr 
