@@ -26,7 +26,7 @@ Dienstag                  | 19:00 - 23:00 Uhr
 Mittwoch, Weiberfasnacht  | 13:00 - 23:00 Uhr 
 Donnerstag                | 19:00 - 23:00 Uhr
 Freitag                   | 14:00 - 23:00 Uhr  
-Samstag, Sonntag, Feiertag,<br />Rosenmontag, sowie am 24./31.12. | 07:00 - 23:00 Uhr
+Samstag, Sonntag, Feiertag, Rosenmontag, sowie am 24./31.12. | 07:00 - 23:00 Uhr
  
 **Außerhalb dieser Zeiten, also zwischen 23:00 - 07:00 Uhr 
 wenden Sie sich bitte an das Krankenhaus Siegburg**
