@@ -38,6 +38,7 @@ Nicht zu den "Kassenleistungen" gehören u.a. :
 
 Neben den vertragsärztlichen Versorgungsmöglichkeiten steht mir ein breites Spektrum an naturheilkundlichen Behandlungsoptionen zur Verfügung. Da sich die meisten naturheilkundlichen Behandlungsansätze oft grundlegend von denen der vertragsärztlichen Medizin unterscheiden, können naturheilkundliche Beratungen und Behandlungen, auch zur Frage, ob eine naturheilkundliche Behandlung für Sie sinnvoll sein könnte, nicht während der laufenden Sprechzeiten durchgeführt werden. Wir bitten daher um Vereinbarung eines Spezial-Termines. Die anfallenden Kosten berechnen sich nach dem zeitlichen Aufwand nach der Gebührenordnung für Ärzte (GOÄ), zuzüglich der ggf. anfallenden Sachkosten.
 
+- Hochdosis-Vitamin-C Infusionen (Pascorbin 7,5g, 5x innerhalb von 2 Wochen als gesicherte Indikation bei Erkrankungen der Atemwege, des Brustraums und des Mediastinums)
 - Individuelle Ernährungsberatung
 - Beratung zu Nahrungsergänzungsmitteln
 - Infusionen (z. B. bei vermehrter Müdigkeit, nicht behebbarer Antriebslosigkeit, gehäuften Infekten etc.)
