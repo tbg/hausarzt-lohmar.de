@@ -7,11 +7,15 @@ menu:
     weight: 50
 ---
 
-**_Notfall - Rettungsdienst:  Tel.-Nr. 112_ in lebensbedrohlichen Situationen**
+**_Notfall - Rettungsdienst: nur in lebensbedrohlichen Situationen**
+
+Tel.-Nr. 112_ **
+
  
  
 **_Während der Praxis-Öffnungszeiten:  Tel.-Nr. 02246-7100 
-mobil, nur im Notfall: 0160 / 932 13 419_**
+
+nur im Notfall: 0160 / 932 13 419_**
  
  
 **Hausbesuche außerhalb der Praxisöffnungszeiten**, 
