@@ -1,4 +1,0 @@
----
-title: "Datenschutz"
-kind: "page"
----
