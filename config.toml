@@ -6,4 +6,4 @@ theme = "ananke"
 DefaultContentLanguage = "de"
 
 [params]
-  background_color_class = "bg-green"
+  background_color_class = "bg-dark-green"
