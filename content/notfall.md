@@ -15,8 +15,8 @@ menu:
 Tel.-Nr. 02246-7100 während der Praxis-Öffnungszeiten:   
 Tel.-Nr. 0160 / 932 13 419 in dringenden Fällen außerhalb der Sprechzeiten**
 
-**Kassenärztliche Notdienstpraxis in Siegburg (gegenüber dem Krankenhaus in der Ringstraße), 
-besetzt zu folgenden Zeiten:**
+**Kassenärztliche Notdienstpraxis in Siegburg 
+(gegenüber dem Krankenhaus in der Ringstraße), besetzt zu folgenden Zeiten:**
 
 ||| 
 |---------------------------|-------------------:|
@@ -30,7 +30,7 @@ Samstag, Sonntag, Feiertag,<br />Rosenmontag, sowie am 24./31.12. | 07:00 - 23:0
 **Außerhalb dieser Zeiten, also zwischen 23:00 - 07:00 Uhr des Folgetages, 
 wenden Sie sich bitte an das Krankenhaus Siegburg**
   
-**Ärztlicher Bereitschaftsdienst (Hausbesuche außerhalb der Praxisöffnungszeiten**                    
+**Ärztlicher Bereitschaftsdienst** (Hausbesuche außerhalb der Praxisöffnungszeiten)                    
 ## Tel. 116 117 (ohne Vorwahl)
 nur, wenn wegen der Schwere der Erkrankung die Notfallpraxis nicht aufgesucht werden kann.
 
