@@ -11,16 +11,18 @@ menu:
  
  
 **_Während der Praxis-Öffnungszeiten:  Tel.-Nr. 02246-7100 
-mobil nur im Notfall unter 0160 / 932 13 419_**
+mobil, nur im Notfall: 0160 / 932 13 419_**
  
  
-**Hausbesuche außerhalb der Praxisöffnungszeiten**, täglich bis morgens um 7:00 Uhr
+**Hausbesuche außerhalb der Praxisöffnungszeiten**, 
+täglich bis morgens um 7:00 Uhr
 und nur, wenn wegen der Schwere der Erkrankung die Notdienstpraxis nicht aufgesucht werden kann:
  
 **_Tel.-Nr. 116 117_** (ohne Vorwahl)
  
  
-*Die Kassenärztliche Notdienstpraxis in Siegburg (gegenüber dem Krankenhaus in der Ringstraße ist besetzt zu folgenden Zeiten:*
+*Die Kassenärztliche Notdienstpraxis in Siegburg (gegenüber dem Krankenhaus in der Ringstraße)
+ist besetzt zu folgenden Zeiten:*
  
 |||
 |---------------------------|-------------------:|
