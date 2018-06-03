@@ -7,17 +7,16 @@ menu:
     weight: 50
 ---
 
-**Rettungsdienst Tel. Nr. 112** 
-**= nur im lebensbedrohlichen Notfall rufen**
+## Rettungsdienst Tel.          Nr. 112
 
-**Praxis:** 
-**Tel.-Nr. 02246-7100 Während der Praxis-Öffnungszeiten:   
-  Tel.-Nr. 0160 / 932 13 419 in dringenden Fällen außerhalb der Sprechzeiten**
+= nur im lebensbedrohlichen Notfall rufen
 
-**Kassenärztliche Notdienstpraxis in Siegburg (gegenüber dem Krankenhaus in der Ringstraße)**
+**Praxis: 
+Tel.-Nr. 02246-7100 während der Praxis-Öffnungszeiten:   
+Tel.-Nr. 0160 / 932 13 419 in dringenden Fällen außerhalb der Sprechzeiten**
 
-besetzt zu folgenden Zeiten:*
-
+**Kassenärztliche Notdienstpraxis in Siegburg (gegenüber dem Krankenhaus in der Ringstraße), 
+besetzt zu folgenden Zeiten:**
 
 ||| 
 |---------------------------|-------------------:|
@@ -28,10 +27,12 @@ Donnerstag                | 19:00 - 23:00 Uhr
 Freitag                   | 14:00 - 23:00 Uhr  
 Samstag, Sonntag, Feiertag,<br />Rosenmontag, sowie am 24./31.12. | 07:00 - 23:00 Uhr
  
-**Außerhalb dieser Zeiten, also zwischen 23:00 - 07:00 Uhr des Folgetages, wenden Sie sich bitte an das Krankenhaus Siegburg**
+**Außerhalb dieser Zeiten, also zwischen 23:00 - 07:00 Uhr des Folgetages, 
+wenden Sie sich bitte an das Krankenhaus Siegburg**
   
-**Ärztlicher Bereitschaftsdienst (Hausbesuche außerhalb der Praxisöffnungszeiten: Tel. 116 117 (ohne Vorwahl)** 
-nur, wenn wegen der Schwere der Erkrankung die Notfallpraxis nicht aufgesucht werden kann
+**Ärztlicher Bereitschaftsdienst (Hausbesuche außerhalb der Praxisöffnungszeiten**                    
+## Tel. 116 117 (ohne Vorwahl)
+nur, wenn wegen der Schwere der Erkrankung die Notfallpraxis nicht aufgesucht werden kann.
 
 |||
 |---------------------------|-------------------:| 
@@ -43,7 +44,8 @@ Freitag:       | von 12 Uhr (bis Montag, 8 Uhr)
 Samstag:     | rund um die Uhr
 Sonntag:      | rund um die Uhr (bis Montag, 8 Uhr)
 
-Nachrangig kann im Notfall auch die Arztnotrufzentrale in Duisburg unter Tel.-Nr. 0180 / 50 44 100 erreicht werden.
+Nachrangig kann im Notfall auch die Arztnotrufzentrale in Duisburg erreicht werden
+          Tel.-Nr. 0180 / 50 44 100 
  
 ## Weitere Adressen / Links: 
 
