@@ -2,7 +2,9 @@
 title: "Vertretungszeiten"
 date: 2018-05-25T13:29:00-04:00
 kind: "page"
-weight: 60
+menu:
+  main:
+    weight: 910
 ---
 
 Liebe Patientinnen, liebe Patienten,
