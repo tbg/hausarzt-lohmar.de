@@ -9,7 +9,7 @@ menu:
 
 Mein ärztliches Selbstverständnis beruht auf dem Grundsatz:
 
-> so wenig Medizin wie möglich - so viel Medizin wie nötig
+> **so wenig Medizin wie möglich - so viel Medizin wie nötig**
 
 Ich gehe davon aus, dass jede Patientin und jeder Patient über persönliche Ressourcen verfügt, die gefördert und zur Besserung des Beschwerdebildes eingesetzt werden können.
 
