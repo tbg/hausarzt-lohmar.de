@@ -11,14 +11,16 @@ Liebe Patientinnen, liebe Patienten,
  
 nachfolgend finden Sie die **aktuellen Urlaubs- und Schließungszeiten der Praxis**
 
+**kurzfristige Änderungen vorbehalten**
+
 |||
 |-------------|----------------------------:|
-Februar:     |       8. bis 9. Februar 2018
-März:         |        9. bis 16. März 2018 
-Juni-Juli:    |     27. Juni bis 18. Juli 2018
-September:   |  10. bis 14. September 2018
-Oktober:      |    24. bis 26. Oktober 2018
-Dezember:      |20. bis 21. Dezember 2018
+März:     |        13. bis 22. März 20019
+Juni / Juli:        |        24. Juni bis 12. Juli 2019 
+September:  |     2. bis 6. September 2019
+Oktober:  |  23. bis 25. Oktober 
+Dezember:      |   24. bis 31. Dezember
+
 
 Es vertritt uns jeweils 
 **Fr. Dr. Volgger, im Backesgarten 3, Lohmar
