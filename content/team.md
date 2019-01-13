@@ -7,11 +7,11 @@ menu:
     weight: 20
 ---
 
-Frau Rebecca Bürling-Ziemens und Fr. Clara Hollender unterstützen mich unermüdlich und nachhaltig. 
+Frau Bürling-Ziemens, Frau Assenmacher und Frau Yilmaz haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
 
-Sie haben immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
+Unsere Auszubildende Frau Leonie Schneider hat Ihre Prüfung zur MFA erfolgreich absolviert! Wir gratulieren! Wir freuen uns, dass wir Sie weiter in unserem Team haben. 
 
-Unsere Auszubildende Frau Leonie Schneider ergänzt uns im Team engagiert und zuverlässig. 
+
 
 ## Vita Dr. Andrea Schottdorf
 
