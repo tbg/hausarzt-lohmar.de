@@ -9,7 +9,8 @@ menu:
 
 Liebe Patientinnen, liebe Patienten,
  
-nachfolgend finden Sie die 
+nachfolgend finden Sie die
+
 **aktuellen Urlaubs- und Schließungszeiten der Praxis**
 
 **kurzfristige Änderungen vorbehalten**
