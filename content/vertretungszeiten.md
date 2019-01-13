@@ -22,7 +22,8 @@ Oktober:  |  23. bis 25. Oktober
 Dezember:      |   24. bis 31. Dezember
 
 
-Es vertritt uns jeweils 
+Es vertritt uns jeweils
+
 **Fr. Dr. Volgger, im Backesgarten 3, Lohmar
 Tel. 02246 - 91820**
 
