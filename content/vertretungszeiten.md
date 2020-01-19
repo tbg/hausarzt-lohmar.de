@@ -17,11 +17,12 @@ nachfolgend finden Sie die
 
 |||
 |-------------|----------------------------:|
-März:     |        13. bis 22. März 20019
-Juni / Juli:        |        24. Juni bis 12. Juli 2019 
-September:  |     2. bis 6. September 2019
-Oktober:  |  23. bis 25. Oktober 
-Dezember:      |   24. bis 31. Dezember
+Februar:    |        20. bis 24.Februar 2020
+April:        |        20. bis 24. April 2020
+Mai:    |   22.Mai 2020
+Juni / Juli: | 22. Juni bis 10. Juli 2020 
+September:      |   07. bis 11. September 2020
+Oktober: | 19. bis 23. Oktober 2020
 
 
 Es vertritt uns jeweils
