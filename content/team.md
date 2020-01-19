@@ -7,11 +7,9 @@ menu:
     weight: 20
 ---
 
-Frau Bürling-Ziemens, Frau Assenmacher und Frau Yilmaz haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
+Frau Bürling-Ziemens, Frau Schneider und Frau Yilmaz haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
 
-Unsere Auszubildende Frau Leonie Schneider hat Ihre Prüfung zur MFA erfolgreich absolviert! Wir gratulieren! Wir freuen uns, dass wir Sie weiter in unserem Team haben. 
-
-
+Wir freuen uns, dass wir Fr. Altina Rexhaj zur Ausbildung zur Medizinischen Fachangestellten in unserer Praxis haben.  
 
 ## Vita Dr. Andrea Schottdorf
 
