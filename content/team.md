@@ -9,7 +9,7 @@ menu:
 
 Frau Bürling-Ziemens, Frau Schneider und Frau Yilmaz haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
 
-Wir freuen uns, dass wir Fr. Altina Rexhaj zur Ausbildung zur Medizinischen Fachangestellten in unserer Praxis haben.  
+Wir freuen uns sehr, Fr. Altina Rexhaj zur Ausbildung zur Medizinischen Fachangestellten in unserer Praxis zu haben.  
 
 ## Vita Dr. Andrea Schottdorf
 
