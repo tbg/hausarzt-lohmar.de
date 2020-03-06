@@ -15,6 +15,8 @@ Auf den folgenden Seiten finden Sie die wesentlichen Hinweise zur [Terminvergabe
 
 Wir sind bemüht, den Aufenthalt in der Praxis für Sie möglichst angenehm zu gestalten; Sie erleichtern uns dies, wenn Sie uns Ihr Anliegen und Ihre Erwartungen möglichst konkret mitteilen.
 
-Vielen Dank.
+__Infos zu Coronavirus - Infektion:__ 
 
-
+Bei Fieber, Abgeschlagenheit und Husten __UND__ Kontakt mit einem Infizierten oder 
+Aufenthalt in einem Risikogebiet ([Informationen zu Risikogebieten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html))
+melden Sie sich bitte __UNBEDINGT ZUERST__ telefonisch bei uns!
