@@ -7,9 +7,8 @@ menu:
     weight: 20
 ---
 
-Frau Bürling-Ziemens, Frau Schneider und Frau Yilmaz haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
+Frau Bürling-Ziemens, Frau Schneider, Frau Yilmaz und Fr. Rexhaj haben für Sie immer ein offenes Ohr und finden für jedes Anliegen einen Weg! 
 
-Wir freuen uns sehr, Fr. Altina Rexhaj zur Ausbildung zur Medizinischen Fachangestellten in unserer Praxis zu haben.  
 
 ## Vita Dr. Andrea Schottdorf
 
