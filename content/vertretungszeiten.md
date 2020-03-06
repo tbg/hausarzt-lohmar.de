@@ -18,7 +18,7 @@ nachfolgend finden Sie die
 |||
 |-------------|----------------------------:|
 Februar:    |        20. bis 24. Februar 2020
-April:        |        20. bis 24. April 2020
+April:        |        06. bis 09. April 2020
 Mai:    |   22. Mai 2020
 Juni / Juli: | 22. Juni bis 10. Juli 2020 
 September:      |   07. bis 11. September 2020
