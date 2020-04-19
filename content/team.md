@@ -28,7 +28,7 @@ Frau Bürling-Ziemens, Frau Schneider, Frau Yilmaz und Fr. Rexhaj haben für Sie
 - April 2003 - Dezember 2004
     - Geschäftsführung der Ausschüsse Prävention und Familienplanung des Bundesausschusses für Ärzte und Krankenkassen (heutiger Gemeinsamer Bundesausschuss)
 - Januar 2005 - Juli 2013
-    - Medizinischer Dienst der Krankenversicherung Nordrhein, kommissarische Leitung der AG "Neue und unkonventionelle Untersuchungsmethoden", als solche Mitglied des NUB-Expertengremiums des Spitzenverbandes, ASP Arzneimittel
+    - Medizinischer Dienst der Krankenversicherung Nordrhein, kommissarische Leitung der AG "Neue und unkonventionelle Behandlungsmethoden", als solche Mitglied des NUB-Expertengremiums des Spitzenverbandes, ASP Arzneimittel
 - August 2013 Übernahme der Hausarztpraxis in Lohmar 
 
 ### Erworbene Zusatzbezeichnungen und  Qualifikationen: 
