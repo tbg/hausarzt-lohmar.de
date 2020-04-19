@@ -40,4 +40,7 @@ Frau Bürling-Ziemens, Frau Schneider, Frau Yilmaz und Fr. Rexhaj haben für Sie
 - Verkehrsmedizin
 - Reisemedizin 
 
- 
+Akademische Lehrpraxis Allgemeinmedizin Uni Köln (PJ)
+
+Weiterbildungsbefugnis der Ärztekammer Nordrhein für Allgemeinmedizin (24 Monate) 
+
