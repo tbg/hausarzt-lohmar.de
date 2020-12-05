@@ -17,6 +17,6 @@ Wir sind bemüht, den Aufenthalt in der Praxis für Sie möglichst angenehm zu g
 
 __Infos zu Coronavirus - Infektion:__ 
 
-Bei Fieber, Abgeschlagenheit und Husten __UND__ Kontakt mit einem Infizierten oder 
+Bei Fieber, Abgeschlagenheit und Husten oder Kontakt mit/zu einem Corona-positiv Getesteten / Infizierten oder
 Aufenthalt in einem Risikogebiet ([Informationen zu Risikogebieten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html))
 melden Sie sich bitte __UNBEDINGT ZUERST__ telefonisch bei uns!
