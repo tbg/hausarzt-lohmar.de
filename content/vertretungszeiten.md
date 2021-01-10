@@ -13,7 +13,8 @@ nachfolgend finden Sie die
 
 **aktuellen Urlaubs- und Schließungszeiten der Praxis**
 
-**kurzfristige Änderungen vorbehalten! Bitte beachten Sie unsere aktuellen Telefonansagen!**
+**kurzfristige Änderungen vorbehalten!
+Bitte beachten Sie unsere aktuellen Telefonansagen!**
 
 |||
 |---------------|----------------------------:|
@@ -22,7 +23,7 @@ März-April:        | 29. März bis 9. April 2021
 Juni / Juli: | 21. Juni bis 9. Juli 2021
 September:      |   6. bis 10. September 2021
 Oktober: | 18. bis 22. Oktober 2021
-Weihnachten: 27. bis 30. Dezember 2021
+Weihnachten: | 27. bis 30. Dezember 2021
 
 
 Es vertreten uns 
