@@ -13,16 +13,16 @@ nachfolgend finden Sie die
 
 **aktuellen Urlaubs- und Schließungszeiten der Praxis**
 
-**kurzfristige Änderungen vorbehalten**
+**kurzfristige Änderungen vorbehalten! Bitte beachten Sie unsere aktuellen Telefonansagen!**
 
 |||
 |-------------|----------------------------:|
-Februar:    |        20. bis 24. Februar 2020
-April:        |        06. bis 09. April 2020
-Mai:    |   22. Mai 2020
-Juni / Juli: | 22. Juni bis 10. Juli 2020 
-September:      |   07. bis 11. September 2020
-Oktober: | 19. bis 23. Oktober 2020
+März:    |        8. und 9. März 2021
+März-April:        | 29. März bis 9. April 2021
+Juni / Juli: | 21. Juni bis 9. Juli 2021 
+September:      |   06. bis 10. September 2021
+Oktober: | 18. bis 22. Oktober 2021
+Weihnachten: 27. bis 30. Dezember 2021
 
 
 Es vertritt uns jeweils
