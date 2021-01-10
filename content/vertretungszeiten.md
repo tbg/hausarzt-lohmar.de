@@ -13,8 +13,9 @@ nachfolgend finden Sie die
 
 **aktuellen Urlaubs- und Schließungszeiten der Praxis**
 
-**kurzfristige Änderungen vorbehalten!
-Bitte beachten Sie unsere aktuellen Telefonansagen!**
+**kurzfristige Änderungen vorbehalten!**
+
+**Bitte beachten Sie unsere aktuellen Telefonansagen!**
 
 |||
 |---------------|----------------------------:|
@@ -29,6 +30,7 @@ Weihnachten: | 27. bis 30. Dezember 2021
 Es vertreten uns 
 
 **Fr. Dr. Volgger / Dr. Büttner, Im Backesgarten 3, Lohmar, Tel. 02246 - 91820**
+
 **Drs. Rickert, Hauptstr. 79, Lohmar, Tel. 02246 - 4437** 
 
  Öffnungszeiten der Notdienstpraxis und ärztlicher Bereitschaftsdienst siehe unter "Notfall"
