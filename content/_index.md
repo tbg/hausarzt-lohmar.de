@@ -9,7 +9,10 @@ menu:
 
 Liebe Besucher dieser Seite,<br />liebe Patientinnen und Patienten,
 
-wir freuen uns über Ihr Interesse an unserer Praxis. 
+__alles hat seine Zeit, auch die berufliche Aktivität hat einmal ein Ende. Ich freue mich daher sehr, dass es gelungen ist, einen jungen Kollegen als Praxisnachfolger zu gewinnen, der Sie, liebe Patientinnen und Patienten über viele Jahr als Hausarzt wird begleiten können. Die Hompage von Dr. Dimitrios Siskos wird ab 1. Juli 2022 erreichbar sein. Bitte beachten Sie, dass wegen Urlaub die Praxis wie geplant vom 11. bis 29. Juli 2022 geschlosen ist.__
+
+__Ich bedanke mich sehr bei Ihnen, die ich über diese Jahre begleiten durfte; ich bin sicher, dass Sie auch in Dr. Siskos einen fachlich versierten und vertrauenswürdigen Hausarzt finden werden.__  
+
 
 Auf den folgenden Seiten finden Sie die wesentlichen Hinweise zur [Terminvergabe](./kontakt) und unser diagnostisches und therapeutisches [Angebot](./leistungen).
 
